@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BlurView">
+        <attr name="blurStrokeColor" format="color"/>
+        <attr name="blurStrokeEnabled" format="boolean"/>
+        <attr name="blurStrokeWidth" format="float"/>
+
+        <attr name="blurColor" format="color"/>
+        <attr name="blurLevel" format="integer"/>
+        <attr name="blurCornerRadius" format="float"/>
+        <attr name="blurColorAlpha" format="integer"/>
+
+    </declare-styleable>
+</resources>

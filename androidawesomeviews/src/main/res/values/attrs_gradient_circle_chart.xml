@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GradientCircleChart">
+        <attr name="startColor" format="color"/>
+        <attr name="endColor" format="color"/>
+        <attr name="strokeColor" format="color"/>
+        <attr name="circleRadius" format="dimension"/>
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="angle" format="float"/>
+    </declare-styleable>
+</resources>
