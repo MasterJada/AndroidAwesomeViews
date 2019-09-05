@@ -3,8 +3,19 @@
 
 ### Gradient Circle Chart 
 <img src="https://user-images.githubusercontent.com/7074407/64266624-8bfbcb00-cf3d-11e9-8f1d-e48d3be875ae.png" height="300" />
-#### XML
 
+```xml
+ <com.jetlaunch.androidawesomeviews.GradientCircleChart
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:layout_gravity="center"
+                    app:angle="20"
+                    app:circleRadius="125dp"
+                    app:endColor="#38ef7d"
+                    app:startColor="#11998e"
+                    app:strokeColor="#FFF"
+                    app:strokeWidth="30dp" />
+```
 
 ### Blur view nested from card view
 
